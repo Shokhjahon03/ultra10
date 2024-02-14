@@ -1,0 +1,112 @@
+{
+  "students": [
+    {
+      "id": "1",
+      "firsname": "jon",
+      "lastname": "do",
+      "age": 12,
+      "group": "N32"
+    },
+    {
+      "id": "2",
+      "firsname": "li",
+      "lastname": "shau",
+      "age": 122,
+      "group": "N324"
+    },
+    {
+      "id": "3772",
+      "firsname": "allo",
+      "lastname": "salo",
+      "age": "34",
+      "group": "N32"
+    },
+    {
+      "id": "8609",
+      "firsname": "oga",
+      "lastname": "bek",
+      "age": "57",
+      "group": "N32"
+    },
+    {
+      "id": "6d6a",
+      "firsname": "john",
+      "lastname": "doe",
+      "age": "23",
+      "group": "N32"
+    },
+    {
+      "id": "7a27",
+      "firsname": "asad",
+      "lastname": "jek",
+      "age": "54",
+      "group": "N23"
+    },
+    {
+      "id": "a4cf",
+      "firsname": "abc",
+      "lastname": "ddjd",
+      "age": "44",
+      "group": "N32"
+    },
+    {
+      "id": "9fad",
+      "firsname": "dfv",
+      "lastname": "fv",
+      "age": "4454",
+      "group": "N32"
+    },
+    {
+      "id": "efbb",
+      "firsname": "ad",
+      "lastname": "fdf",
+      "age": "44",
+      "group": "N23"
+    },
+    {
+      "id": "103a",
+      "firsname": "xv",
+      "lastname": "vc",
+      "age": "24",
+      "group": "N322"
+    }
+  ],
+  "teacher": [
+    {
+      "id": "1",
+      "firsname": "jon",
+      "lastname": "do",
+      "group": "N32"
+    },
+    {
+      "id": "2",
+      "firsname": "li",
+      "lastname": "shau",
+      "group": "N324"
+    },
+    {
+      "id": "3",
+      "firsname": "li",
+      "lastname": "shau",
+      "group": "N324"
+    },
+    {
+      "id": "4",
+      "firsname": "li",
+      "lastname": "shau",
+      "group": "N324"
+    },
+    {
+      "id": "5",
+      "firsname": "li",
+      "lastname": "shau",
+      "group": "N324"
+    },
+    {
+      "id": "6",
+      "firsname": "li",
+      "lastname": "shau",
+      "group": "N324"
+    }
+  ]
+}
